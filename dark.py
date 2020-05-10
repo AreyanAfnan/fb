@@ -24,7 +24,7 @@ def keluar():
     print '\x1b[1;91m[!] Keluar'
     os.sys.exit()
 
-
+##### LOGO #####
 def jalan(z):
     for e in z + '\n':
         sys.stdout.write(e)
